@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: False
+    output: True
     permalink: /:collection/:path/
   portfolio:
     output: true
