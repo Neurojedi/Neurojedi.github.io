@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- 🎓 I’m a fourth-year Molecular Biology and Genetics student who is also double-majoring (3rd year) in Software Engineering.
-- 🧠 My main research interest is Neuroscience where I use Machine Learning and Deep Learning for analysis of signals and images. In addition, I am working on using gene editing techniques for treatment of neurological genetic disorders. More specifically, I am interested in using ML/DL for analysis of Neural Manifolds/Spaces using connectome and image data as well as I am interested in developing novel lentiviral vectors for transfusing CRISPR systems to neurons in order to treat people with neurological rare diseases.
-- 💻 Here I will be sharing my Machine Learning and Deep Learning notes as well as my projects for medical data analysis (generally neural data). Furthermore, my plan is also to share genomic data analysis and bioinformatics stuff.
-- ⚡ I love listening to AC/DC, Guns N' Roses, Halestorm, Nightwish, Kiss, Metallica, Black Sabbath, and Iron Maiden. Also I have a science history blog on 
-<a href="https://gorkem-akgul.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" data-canonical-src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" style="max-width: 100%;"></a>
+Hi there! 👋 I recently earned my bachelor's degree in Molecular Biology and Genetics from Uskudar University. Simultaneously, I'm in my final year of studying Software Engineering as my second major. My primary research focus lies in Neuroscience, where I leverage machine learning to analyze signals and images. Moreover, I previously worked on the development of gene therapy approaches for treating neurological genetic disorders. I thrive on challenges, constantly seeking opportunities to learn and share knowledge, as I believe its true value lies not just in acquiring it, but in sharing it.
 
 Research
 ======
