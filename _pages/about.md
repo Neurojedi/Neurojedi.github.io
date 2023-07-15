@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+\usepackage{ragged2e}
+\justifying
+
 Hi there! 👋 I recently earned my bachelor's degree in Molecular Biology and Genetics from Uskudar University. Simultaneously, I'm in my final year of studying Software Engineering as my second major. My primary research focus lies in Neuroscience, where I leverage machine learning to analyze signals and images. Moreover, I previously worked on the development of gene therapy approaches for treating neurological genetic disorders. I thrive on challenges, constantly seeking opportunities to learn and share knowledge, as I believe its true value lies not just in acquiring it, but in sharing it.
 
 Research
