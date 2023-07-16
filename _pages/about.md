@@ -26,4 +26,15 @@ In addition to my research endeavors, I have a strong passion for sharing knowle
 If you have any inquiries, wish to collaborate on a project, or simply have questions, please feel free to reach out to me. 
 
 
+## Research Interest
+======
+
+* Computational Neuroscience
+* Representation Learning
+* Brain Alignment
+* Medical Image Segmentation
+
+
+
+
 
