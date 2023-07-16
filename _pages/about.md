@@ -27,12 +27,11 @@ If you have any inquiries, wish to collaborate on a project, or simply have ques
 
 
 ## Research Interest
-======
-
 * Computational Neuroscience
 * Representation Learning
 * Brain Alignment
 * Medical Image Segmentation
+* NeuroAI
 
 
 
