@@ -12,7 +12,7 @@ Hi there! 👋 I recently earned my bachelor's degree in Molecular Biology and G
 
 Research
 ======
-I am currently interning at the Centre for Medical Image Computing at the University College London, where my primary focus is on developing predictive approaches for Alzheimer's Disease. Utilizing a range of biomarkers obtained from various data sources, including MRI, PET, DTI, and genetics tests, I am employing Machine Learning and Deep Learning techniques in my research under the supervision of Neil Oxtoby and Maetrei Kohli.
+I am currently interning at the Centre for Medical Image Computing at the University College London, where my primary focus is on developing predictive approaches for Alzheimer's Disease. Utilizing a range of biomarkers obtained from various data sources, including MRI, PET, DTI, and genetics tests, I am employing Machine Learning and Deep Learning techniques in my research under the supervision of [Neil Oxtoby](https://iris.ucl.ac.uk/iris/browse/profile?upi=NOXTO55) and [Maetrei Kohli](http://www0.cs.ucl.ac.uk/people/M.Kohli.html).
 
 Additionally, I am an active member of the Neural Data Science and Statistical Computing Group at the Max Planck Institute for Human Cognitive and Brain Sciences. I am proud and privileged to be working under the guidance of Nico Scherf alongside an amazing team. Within this role, I am involved in addressing diverse challenges such as Manifold Learning, Cell Segmentation, and Brain Parcellation.
 
