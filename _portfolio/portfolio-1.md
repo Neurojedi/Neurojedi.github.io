@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Machine-Learning-Zero2Hero"
 url: https://github.com/nishanthsolomon/blog
 excerpt: "A series of notebooks that introduce Machine Learning concepts with hands-on practice and its mathematics in brief. <br/><img src='/images/tsne_mnist.png'>"
 collection: portfolio
