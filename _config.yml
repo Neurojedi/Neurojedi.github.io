@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : gorkem.akgul@st.uskudar.edu.tr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  SoundCloud       : "Grkmakgl"
+  SoundCloud       : https://on.soundcloud.com/79AgQ
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
