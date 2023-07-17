@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Github Projects"
-    url: /github-projects/
+  - title: "Blog Posts"
+    url: /blog-posts/
     
   - title: "CV"
     url: /cv/
