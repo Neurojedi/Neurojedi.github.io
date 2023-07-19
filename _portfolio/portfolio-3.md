@@ -1,7 +1,7 @@
 ---
 title: "Brain Tumor Segmentation using 3D U-Net"
 url: https://github.com/Neurojedi/Deep-Learning-Fundamentals-with-TensorFlow/tree/main
-excerpt: "A work on segmenting brain tumors on BraTS Dataset using Pre-trained and Fully-trained 3D U-Nets with commonly used loss functions to assess the effect of loss function on generalization error. <br/><img src='/images/tumorcombined.gif'> [More on Github](https://github.com/Neurojedi/Deep-Learning-Fundamentals-with-TensorFlow/tree/main)"
+excerpt: "A work on segmenting brain tumors on BraTS Dataset using Pre-trained and Fully-trained 3D U-Nets with commonly used loss functions to assess the effect of loss function on generalization error.   <br/><img src='/images/tumorcombined.gif'> [More on Github](https://github.com/Neurojedi/Deep-Learning-Fundamentals-with-TensorFlow/tree/main)"
 collection: portfolio
 ---
 
