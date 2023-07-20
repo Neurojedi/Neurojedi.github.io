@@ -5,7 +5,7 @@ excerpt: "A series of notebooks that introduce Machine Learning concepts with ha
 collection: portfolio
 ---
 
-Welcome to Machine Learning Hero-to-Zero. In this repository, you will find Jupyter notebooks that introduce machine learning algorithms by combining mathematical aspects behind the algorithms and practices. Currently, there are 20 notebooks in the following subjects:
+In this repository, you will find Jupyter notebooks that introduce machine learning algorithms by combining mathematical aspects behind the algorithms and practices. Currently, there are 20 notebooks in the following subjects:
 
 1. Linear Regression
 2. Logistic Regression
