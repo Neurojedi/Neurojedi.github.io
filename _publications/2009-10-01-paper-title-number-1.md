@@ -2,7 +2,7 @@
 title: "Design of Neuron-specific Lentiviral Vectors and Investigation of Gene Therapy Applications in Spinal Muscular Atrophy Disease"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This is my thesis poster that I presented successfully to the graduation committee to complete my studies in Molecular Biology and Genetics Department.'
 date: 
 venue: 
 paperurl: 'http://dx.doi.org/10.13140/RG.2.2.17324.64649'
