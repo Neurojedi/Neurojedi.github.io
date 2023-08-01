@@ -1,7 +1,7 @@
 ---
 title: "Biofunctions"
 url: https://github.com/Neurojedi/Deep-Learning-Fundamentals-with-TensorFlow/tree/main
-excerpt: "This repository contains Python implementations of bioinformatics algorithms, including several that are featured in the Rosalind problem set. <br/> \n [Explore on GitHub](https://github.com/Neurojedi/Biofunctions)"
+excerpt: "This repository contains Python implementations of bioinformatics algorithms, including several that are featured in the Rosalind problem set. <br/> \n  \n [Explore on GitHub](https://github.com/Neurojedi/Biofunctions)"
 collection: portfolio
 ---
 
