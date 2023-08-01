@@ -11,3 +11,6 @@ This repository contains code for training two different U-Net based architectur
 For more information about the dataset and data analysis, please refer to the Main.ipynb file. This notebook provides details about the architectures, training settings, and the results on the test set for comparison of choice in loss function and optimizer. You can also find a link to the Google Drive Folder, where all the weight files generated during training are stored.
 
 Furthermore, you can explore the training settings I used in the notebooks under specific folders named after each respective loss function. Each notebook in these folders displays the training plot, and if you wish to retrain the network in a different setting, you can easily utilize the notebooks on Colab.
+
+
+[Explore on GitHub](https://github.com/Neurojedi/Brain-Tumor-Segmentation-using-3DUNet)
