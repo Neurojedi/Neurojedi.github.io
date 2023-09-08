@@ -1,17 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hi there! 👋 I recently earned my bachelor's degree in Molecular Biology and Genetics from Uskudar University. Simultaneously, I'm in my final year of studying Software Engineering as my second major. My primary research focus lies in Neuroscience, where I leverage machine learning to analyze signals and images. Moreover, I previously worked on the development of gene therapy approaches for treating neurological genetic disorders. I thrive on challenges, constantly seeking opportunities to learn and share knowledge, as I believe its true value lies not just in acquiring it, but in sharing it.
-
-Research
-======
 
 I am dedicated to unraveling the mechanisms by which information processing in neural cells enables the brain to perceive and interpret the world around us. This multifaceted inquiry encompasses various levels of abstraction, ranging from the intricate interactions of signaling pathways to the computational dynamic behaviors of natural neural networks. To comprehend the complexity of the brain, I employ computational models and machine learning techniques. My primary objective is to gain a deep understanding of the dynamics present in high-dimensional data, unveiling the underlying patterns that shape neural activity. By leveraging these insights, I believe we can not only unravel the mysteries of the brain but also comprehend the hidden dynamics within neural networks. Furthermore, we can propel the development of novel computational models that exceed the capabilities of current AI frameworks.
 
