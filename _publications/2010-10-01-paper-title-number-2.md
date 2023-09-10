@@ -3,7 +3,7 @@ title: "Design of Neuron-specific Lentiviral Vectors and Investigation of Gene T
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This poster is a summary of my thesis work for the Molecular Biology and Genetics department that I presented during my defense.'
-date: 2010-10-01
+date: June 2023
 venue: ''
 paperurl: ''
 citation: ''
