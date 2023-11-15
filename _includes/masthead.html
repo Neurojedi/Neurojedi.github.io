@@ -7,7 +7,8 @@
         <button><div class="navicon"></div></button>
        
         <ul class="visible-links">
-           <img src="images/84977466.png" class="author__avatar" alt="Görkem Akgül" height="48" width="48">
+          <div class="author__avatar" style="height:48; width:48;"> <img src="images/84977466.png" class="author__avatar" alt="Görkem Akgül" height="48" width="48"></div>
+           
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
