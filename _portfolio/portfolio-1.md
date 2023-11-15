@@ -2,8 +2,8 @@
 title: "Machine-Learning-Zero2Hero"
 img: /images/tsne_mnist.png
 link: https://github.com/Neurojedi/Machine-Learning-Zero2Hero
-url: https://github.com/nishanthsolomon/blog
-excerpt: "A series of notebooks that introduce Machine Learning concepts with hands-on practice and its mathematics in brief. <br/><img src='/images/tsne_mnist.png'> <br/> \n <p><a href='https://github.com/Neurojedi/Machine-Learning-Zero2Hero' class='btn btn-outline-primary'>Explore on GitHub</a></p>"
+url: 
+excerpt: "A series of notebooks that introduce Machine Learning concepts with hands-on practice and its mathematics in brief."
 collection: portfolio
 ---
 
