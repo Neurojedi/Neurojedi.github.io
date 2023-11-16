@@ -1,6 +1,7 @@
 ---
 title: "Covid-Data-Analysis"
 img: /images/covidglobalportion1.gif
+imgpx: 500px
 link: https://github.com/Neurojedi/Covid-Data-Analysis
 url: 
 excerpt: "A simple data visualization and analysis of Daily Covid data provided by John Hopkins University."
