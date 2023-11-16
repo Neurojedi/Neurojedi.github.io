@@ -15,7 +15,7 @@ redirect_from:
   <title>kekayan's Resume</title>
 </head>
   <body>
-    <iframe src="{{ site.baseurl }}/files/Curriculum_Vitae.pdf" style="width:400px; height:400px;" frameborder="0"></iframe>
+    <iframe src="{{ site.baseurl }}/files/Curriculum_Vitae.pdf" style="width:1000px; height:1000px;" frameborder="0"></iframe>
   </body>
 </html>
 
