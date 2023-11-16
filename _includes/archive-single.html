@@ -31,7 +31,6 @@
 </script>
 
 <style>
-
   #scrollToTopButton {
     display: none !important;
     position: fixed !important;
@@ -142,10 +141,10 @@
     {% endif %}
 
     {% if page.url == '/github-projects/' %}
+    <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
     {% if post.img != null %}
       <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
     {% endif %}
-    <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
     <p><a href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">EXPLORE ON GITHUB</a></p>
     {% endif %}
     
