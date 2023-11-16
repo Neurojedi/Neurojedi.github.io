@@ -9,4 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/Curriculum_Vitae.pdf" width="300" height="300" type='application/pdf'> 
+<html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="{{ site.baseurl }}/files/Curriculum_Vitae.pd" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
+
+
