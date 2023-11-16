@@ -139,7 +139,7 @@
     {% endif %}
 
     {% if page.url == '/github-projects/' %}
-    {% if post.img == 'enabled' %}
+    {% if post.img != null %}
       <br/><img src='{{post.img}}'> <br/>
     {% endif %}
     <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
