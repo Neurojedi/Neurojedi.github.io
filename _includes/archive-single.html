@@ -15,7 +15,7 @@
     /* Your custom CSS styles go here */
     .btn-outline-custom {
       color: #2C91F5 !important; /* Text color */
-      border: 1.5px solid #000000 !important; 
+      border: 2px solid #000000 !important; 
       border-color: #2C91F5 !important; /* Border color */
       background-color: #ffffff !important;
     }
@@ -68,7 +68,7 @@
 
     {% if page.url == '/github-projects/' %}
     <br/><img src='{{post.img}}'> <br/>
-    <p><button href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">Explore on GitHub</button></p>
+    <p><a href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">Explore on GitHub</a></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
