@@ -13,7 +13,7 @@
 {% endif %}
 <style>
   .custom-btn {
-  background-color: #28a745 !important; /
+  background-color: #2C91F5 !important; /
   }
 </style>
 <div class="{{ include.type | default: "list" }}__item">
@@ -58,11 +58,11 @@
 
     {% if page.url == '/github-projects/' %}
     <br/><img src='{{post.img}}'> <br/>
-    <p><a href="{{ post.link }}" class="btn btn-success custom-btn" style="text-decoration: none;">Explore on GitHub</a></p>
+    <p><a href="{{ post.link }}" class="btn btn-outline-primary custom-btn" style="text-decoration: none;">Explore on GitHub</a></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p><a href="{{ post.paperurl }}" class="btn btn-success" style="text-decoration: none;">ACCESS PUBLICATION</a></p>
+      <p><a href="{{ post.paperurl }}" class="btn btn-outline-primary custom-btn" style="text-decoration: none;">ACCESS PUBLICATION</a></p>
     {% endif %}
 
   </article>
