@@ -1,7 +1,9 @@
 ---
 title: "Covid-Data-Analysis"
-url: https://github.com/Neurojedi/Deep-Learning-Fundamentals-with-TensorFlow/tree/main
-excerpt: "A simple data visualization and analysis of Daily Covid data provided by John Hopkins University. <br/><img src='/images/covidglobalportion1.gif'> <br/> \n [Explore on GitHub](https://github.com/Neurojedi/Covid-Data-Analysis)"
+img: /images/covidglobalportion1.gif
+link: https://github.com/Neurojedi/Covid-Data-Analysis
+url: 
+excerpt: "A simple data visualization and analysis of Daily Covid data provided by John Hopkins University."
 collection: portfolio
 ---
 
