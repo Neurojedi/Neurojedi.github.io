@@ -1,6 +1,7 @@
 ---
 title: "Machine-Learning-Zero2Hero"
 img: /images/tsne_mnist.png
+imgpx: 500px
 link: https://github.com/Neurojedi/Machine-Learning-Zero2Hero
 url: 
 excerpt: "A series of notebooks that introduce Machine Learning concepts with hands-on practice and its mathematics in brief."
