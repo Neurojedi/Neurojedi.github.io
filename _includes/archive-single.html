@@ -138,9 +138,9 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-
-    {% if page.url == '/github-projects/' %}
     <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
+    {% if page.url == '/github-projects/' %}
+    
     {% if post.img != null %}
       <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
     {% endif %}
