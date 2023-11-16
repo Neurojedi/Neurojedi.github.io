@@ -14,7 +14,7 @@ redirect_from:
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <title>kekayan's Resume</title>
 </head>
-  <body>
+  <body style="width:400; height:400;">
     <iframe src="{{ site.baseurl }}/files/Curriculum_Vitae.pdf" style="width:400; height:400;" frameborder="0"></iframe>
   </body>
 </html>
