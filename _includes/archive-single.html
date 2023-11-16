@@ -12,12 +12,17 @@
   {% assign title = post.title %}
 {% endif %}
 <style>
-  .custom-btn {
-    color: #6c757d !important;
-    border-color: #6c757d !important;
-    background-color: #FFFFFF !important; /
+    /* Your custom CSS styles go here */
+    .btn-outline-custom {
+      color: #ffffff; /* Text color */
+      border-color: #ff0000; /* Border color */
+    }
 
-  }
+    .btn-outline-custom:hover {
+      color: #000000; /* Text color on hover */
+      background-color: #ff0000; /* Background color on hover */
+      border-color: #000000; /* Border color on hover */
+    }
 </style>
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -61,11 +66,11 @@
 
     {% if page.url == '/github-projects/' %}
     <br/><img src='{{post.img}}'> <br/>
-    <p><button href="{{ post.link }}" class="btn btn-outline-primary custom-btn" style="text-decoration: none;">Explore on GitHub</button></p>
+    <p><button href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">Explore on GitHub</button></p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p><a href="{{ post.paperurl }}" class="btn btn-outline-primary custom-btn" style="text-decoration: none;">ACCESS PUBLICATION</a></p>
+      <p><a href="{{ post.paperurl }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS PUBLICATION</a></p>
     {% endif %}
 
   </article>
