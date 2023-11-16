@@ -15,60 +15,26 @@
 
 
 <style>
-  #scrollToTopButton {
-    display: block !important;
-    position: fixed !important;
-    bottom: 20px !important;
-    right: 20px !important;
-    background-color: #0A6B65 !important;
-    color: #fff !important;
-    border: none !important;
-    padding: 10px 20px !important;
-    cursor: pointer !important;
-    box-shadow: none !important; 
-    outline: none !important; 
-    transition: background-color 0.8s, color 0.8s !important; 
-}
-
 #scrollToTopButton {
-    background-color: #0A6B65 !important; 
-    color: #fff !important; 
-    border: 2px solid #0A6B65 !important; 
-    transition: border-radius 0.8s, background-color 0.8s, color 0.8s !important; 
-}
-
-#scrollToTopButton:hover::before {
-    content: "Top" !important; 
-    font-size: 60px !important; 
-    position: absolute !important;
-    top: 50% !important;
-    left: 50% !important;
-    transform: translate(-50%, -50%) !important;
-    width: 100% !important; 
-    text-align: center !important;
+    background-color: #007bff !important; /* Blue background on hover */
+    color: #fff !important; /* White text color on hover */
+    border: 2px solid #007bff !important; /* Ensure the border stays blue on hover */
+    transition: border-radius 0.4s, background-color 0.4s, color 0.4s !important; 
 }
 
 #scrollToTopButton:hover {
+    content:"" !important;
+    border: 2px solid #007bff !important; /* Blue border */
     background-color: transparent !important;
-    color: #0A6B65 !important; 
-    border: none !important;
-    border-radius: 0 !important; 
-    box-shadow: none !important; 
+    color: #007bff !important; /* Blue text color */
+    border-radius: 50% !important;
 }
 
 #scrollToTopButton::before {
     content: "Top" !important; 
     font-weight: bold !important;
-    visibility: visible !important; 
 }
 
-#scrollToTopButton:hover::before {
-    visibility: visible !important;
-}
-
-#scrollToTopButton:focus {
-    outline: none !important; 
-}
 /* Your custom CSS styles go here */
 .btn-outline-custom {
   color: #2C91F5 !important; /* Text color */
