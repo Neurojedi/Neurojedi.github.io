@@ -143,7 +143,7 @@
 
     {% if page.url == '/github-projects/' %}
     {% if post.img != null %}
-      <br/><img src='{{post.img}}' style="width:800px;"> <br/>
+      <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
     {% endif %}
     <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
     <p><a href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">EXPLORE ON GITHUB</a></p>
