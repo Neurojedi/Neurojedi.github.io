@@ -16,7 +16,7 @@
 
 <style>
   #scrollToTopButton {
-    display: none !important;
+    display: block !important;
     position: fixed !important;
     bottom: 20px !important;
     right: 20px !important;
@@ -83,9 +83,9 @@
 }
 
 </style>
-
+<button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()">Top</button>
 <div class="{{ include.type | default: "list" }}__item">
-  <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()">Top</button>
+  
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
