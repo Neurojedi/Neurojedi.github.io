@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "CV"
+    url: /cv/
     
   - title: "Github Projects"
     url: /github-projects/
-        
-  - title: "CV"
-    url: /cv/
+  
+  - title: "Publications"
+    url: /publications/
     
   - title: "Guide"
     url: /markdown/
