@@ -83,7 +83,9 @@
 }
 
 </style>
+
 <div class="{{ include.type | default: "list" }}__item">
+  <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -122,7 +124,8 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
+    
+    
     {% if page.url == '/github-projects/' %}
     
     {% if post.img != null %}
