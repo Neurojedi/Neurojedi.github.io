@@ -12,23 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<script>
-  // JavaScript code for scroll-to-top functionality
-  window.onscroll = function() {
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-      document.getElementById("scrollToTopButton").style.display = "block";
-    } else {
-      document.getElementById("scrollToTopButton").style.display = "none";
-    }
-  };
 
-  function scrollToTop() {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
-  }
-</script>
 
 <style>
   #scrollToTopButton {
@@ -153,3 +137,21 @@
 
   </article>
 </div>
+
+<script>
+  // JavaScript code for scroll-to-top functionality
+  window.onscroll = function() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      document.getElementById("scrollToTopButton").style.display = "block";
+    } else {
+      document.getElementById("scrollToTopButton").style.display = "none";
+    }
+  };
+
+  function scrollToTop() {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  }
+</script>
