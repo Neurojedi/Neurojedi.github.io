@@ -56,7 +56,7 @@
 }
 
 </style>
-<button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
+
 <div class="{{ include.type | default: "list" }}__item">
   
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -100,21 +100,8 @@
     
     
     {% if page.url == '/github-projects/' %}
-    
-    {% if post.img != null %}
-      <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
-    {% endif %}
-    <p><a href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">EXPLORE ON GITHUB</a></p>
-    {% endif %}
-    
-    {% if post.citation and post.paperurl %}
-      <p><a href="{{ post.paperurl }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS PUBLICATION</a></p>
-    {% endif %}
-
-  </article>
-</div>
-
-<script>
+    <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
+    <script>
   // JavaScript code for scroll-to-top functionality
   window.onscroll = function() {
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -131,3 +118,17 @@
     });
   }
 </script>
+    {% if post.img != null %}
+      <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
+    {% endif %}
+    <p><a href="{{ post.link }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">EXPLORE ON GITHUB</a></p>
+    {% endif %}
+    
+    {% if post.citation and post.paperurl %}
+      <p><a href="{{ post.paperurl }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS PUBLICATION</a></p>
+    {% endif %}
+
+  </article>
+</div>
+
+
