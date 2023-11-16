@@ -1,7 +1,7 @@
 ---
 title: "Deep-Learning-Fundamentals-with-TensorFlow"
 img: /images/animation.gif
-imgpx: 800px
+imgpx: 900px
 link: https://github.com/Neurojedi/Deep-Learning-Fundamentals-with-TensorFlow/tree/main
 excerpt: "A series of notebooks that introduce Fundamental Deep Learning concepts with hands-on practice using TensorFlow."
 collection: portfolio
