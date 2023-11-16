@@ -101,23 +101,6 @@
     
     {% if page.url == '/github-projects/' %}
     <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
-    <script>
-  // JavaScript code for scroll-to-top functionality
-  window.onscroll = function() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-      document.getElementById("scrollToTopButton").style.display = "block";
-    } else {
-      document.getElementById("scrollToTopButton").style.display = "none";
-    }
-  };
-
-  function scrollToTop() {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
-  }
-</script>
     {% if post.img != null %}
       <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
     {% endif %}
@@ -131,4 +114,22 @@
   </article>
 </div>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // JavaScript code for scroll-to-top functionality
+    window.onscroll = function() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("scrollToTopButton").style.display = "block";
+      } else {
+        document.getElementById("scrollToTopButton").style.display = "none";
+      }
+    };
 
+    function scrollToTop() {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    }
+  });
+</script>
