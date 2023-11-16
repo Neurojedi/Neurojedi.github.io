@@ -31,59 +31,61 @@
 </script>
 
 <style>
+
   #scrollToTopButton {
-    display: none;
-    position: fixed;
-    width: 70px; /* Set a fixed width */
-    height: 50px; /* Set a fixed height */
-    bottom: 20px;
-    right: 20px;
-    background-color: #0A6B65;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    box-shadow: none; /* Add this line to remove box-shadow */
-    outline: none; /* Add this line to remove the browser's outline */
-    transition: background-color 0.8s, color 0.8s; 
+    display: none !important;
+    position: fixed !important;
+    bottom: 20px !important;
+    right: 20px !important;
+    background-color: #0A6B65 !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 10px 20px !important;
+    cursor: pointer !important;
+    box-shadow: none !important; 
+    outline: none !important; 
+    transition: background-color 0.8s, color 0.8s !important; 
 }
 
 #scrollToTopButton {
-    background-color: #0A6B65; /* Blue background on hover */
-    color: #fff; /* White text color on hover */
-    border: 2px solid #0A6B65; /* Ensure the border stays blue on hover */
-    transition: border-radius 0.8s, background-color 0.8s, color 0.8s; 
+    background-color: #0A6B65 !important; 
+    color: #fff !important; 
+    border: 2px solid #0A6B65 !important; 
+    transition: border-radius 0.8s, background-color 0.8s, color 0.8s !important; 
 }
 
 #scrollToTopButton:hover::before {
-    content: "^"; /* Change content to a big "^" on hover */
-    font-size: 70px; /* Set a maximum font size */
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%; /* Ensure the content takes the full width of the button */
-    text-align: center; /* Center the content horizontally */
+    content: "Top" !important; 
+    font-size: 60px !important; 
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 100% !important; 
+    text-align: center !important;
 }
 
 #scrollToTopButton:hover {
-    background-color: transparent;
-    color: #0A6B65; /* Blue text color */
-    border: none; /* Remove borders on hover */
-    border-radius: 0; /* Remove border radius on hover */
-    box-shadow: none; /* Add this line to remove box-shadow on hover */
+    background-color: transparent !important;
+    color: #0A6B65 !important; 
+    border: none !important;
+    border-radius: 0 !important; 
+    box-shadow: none !important; 
 }
 
 #scrollToTopButton::before {
-    content: "Top"; 
-    font-weight: bold;
+    content: "Top" !important; 
+    font-weight: bold !important;
+    visibility: visible !important; 
 }
 
+#scrollToTopButton:hover::before {
+    visibility: visible !important;
+}
 
 #scrollToTopButton:focus {
-    outline: none; /* Ensure no outline on focus */
+    outline: none !important; 
 }
-  
     /* Your custom CSS styles go here */
     .btn-outline-custom {
       color: #2C91F5 !important; /* Text color */
@@ -97,6 +99,7 @@
       background-color: #2C91F5 !important; /* Background color on hover */
       border-color: #2C91F5 !important; /* Border color on hover */
     }
+
 </style>
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
