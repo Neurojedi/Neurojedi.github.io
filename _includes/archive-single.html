@@ -83,7 +83,8 @@
     
     
     {% if page.url == '/github-projects/' %}
-    <button id="scrollToTopBtn" class="btn btn-outline-primary">Scroll to Top</button>
+     <!-- Scroll to Top button -->
+  <button id="scrollToTopBtn" class="btn btn-outline-primary">Scroll to Top</button>
     {% if post.img != null %}
       <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
     {% endif %}
@@ -96,12 +97,14 @@
 
   </article>
 </div>
-<!-- Link jQuery -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <!-- Your page content goes here -->
 
-<!-- Link Bootstrap JS and Popper.js -->
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+ 
+
+  <!-- Link Bootstrap JS and Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
   <script>
     // Get the button
@@ -126,3 +129,4 @@
       document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     });
   </script>
+
