@@ -18,5 +18,5 @@ Pigmentosa (RP) Disease (TR, pending, No: TR2022000448A2)</p>
 
 <p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold;" >Methods for the Treatment of Spinal Muscular Atrop (TR, pending, No: 2021/018884)</p> 
 
-<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold;" >• Neurotrophic Factor And Optogenetic System-Based Lentiviral System For Use In Retinal Diseases (TR,
+<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold;" >Neurotrophic Factor And Optogenetic System-Based Lentiviral System For Use In Retinal Diseases (TR,
 pending, No: TR2022021763A2)</p> 
