@@ -15,32 +15,15 @@
 
 
 <style>
-#scrollToTopButton {
-    display: none !important;
-    position: fixed !important;
-    bottom: 20px !important;
-    right: 20px !important;
-    cursor: pointer !important;
-    box-shadow: none !important; 
-    outline: none !important;
-    background-color: #007bff !important; 
-    color: #fff !important; 
-    border: 2px solid #007bff !important; 
-    transition: border-radius 0.4s, background-color 0.4s, color 0.4s !important; 
-}
+    /* Add custom styling for the scroll to top button */
+    #scrollToTopBtn {
+      display: none !important;
+      position: fixed !important;
+      bottom: 20px !important;
+      right: 20px !important;
+      z-index: 99 !important; 
+    }
 
-#scrollToTopButton:hover {
-    content:"" !important;
-    border: 2px solid #007bff !important; /* Blue border */
-    background-color: transparent !important;
-    color: #007bff !important; /* Blue text color */
-    border-radius: 50% !important;
-}
-
-#scrollToTopButton::before {
-    content: "Top" !important; 
-    font-weight: bold !important;
-}
 
 /* Your custom CSS styles go here */
 .btn-outline-custom {
@@ -100,7 +83,7 @@
     
     
     {% if page.url == '/github-projects/' %}
-    <button id="scrollToTopButton"  class="btn btn-light" onclick="scrollToTop()"></button>
+    <button id="scrollToTopBtn" class="btn btn-outline-primary">Scroll to Top</button>
     {% if post.img != null %}
       <br/><img src='{{post.img}}' style="width:{{ post.imgpx }};"> <br/>
     {% endif %}
@@ -114,22 +97,26 @@
   </article>
 </div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // JavaScript code for scroll-to-top functionality
+  <script>
+    // Get the button
+    var mybutton = document.getElementById("scrollToTopBtn");
+
+    // When the user scrolls down 20px from the top of the document, show the button
     window.onscroll = function() {
-      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("scrollToTopButton").style.display = "block";
-      } else {
-        document.getElementById("scrollToTopButton").style.display = "none";
-      }
+      scrollFunction();
     };
 
-    function scrollToTop() {
-      window.scrollTo({
-        top: 0,
-        behavior: "smooth"
-      });
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
     }
-  });
-</script>
+
+    // When the user clicks on the button, scroll to the top of the document
+    mybutton.addEventListener("click", function() {
+      document.body.scrollTop = 0; // For Safari
+      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    });
+  </script>
