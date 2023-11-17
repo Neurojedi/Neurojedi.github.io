@@ -49,8 +49,9 @@ Pigmentosa (RP) Disease -  TR, pending, No: TR2022000448A2</p>
 <p><a href="https://worldwide.espacenet.com/patent/search/family/085117719/publication/TR2022000448A2?q=pn%3DTR2022000448A2" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS DETAILS</a></p>
 
 ---
-<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Neurotrophic Factor And Optogenetic System-Based Lentiviral System For Use In Retinal Diseases</p> 
+<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Neurotrophic Factor And Optogenetic System-Based Lentiviral System For Use In Retinal Diseases - TR,
+pending, No: TR2022021763A2 </p> 
 
 ---
-<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Methods for the Treatment of Spinal Muscular Atrophy</p> 
+<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Methods for the Treatment of Spinal Muscular Atrophy - TR, pending, No: 2021/018884</p> 
 
