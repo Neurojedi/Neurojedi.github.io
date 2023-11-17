@@ -35,18 +35,21 @@ redirect_from:
 <p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >CRISPR-PE System For Retinol Dehydrogenase 12 (Rdh12) Gene Mutations For Use In The Treatment
 Of Retinitis Pigmentosa (RP) Disease</p> 
 
-<p><a href="{{ post.paperurl }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS DETAILS</a></p>
+<p><a href="https://worldwide.espacenet.com/patent/search/family/085117228/publication/WO2023129095A1?q=WO2023129095A1" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS DETAILS</a></p>
 ---
 
-<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Exon 13 Skipping Xeno Nucleic Acid Antisense-Oligonucleotide (XNA-ASO) Sequences For Genetic Therapy Of USH2A-Induced Retinitis Pigmentosa </p> 
+<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Xeno Nucleic Acid Antisense-Oligonucleotide (XNA-ASO) Sequences for the Genetic Treatment of USH2A Induced Retinitis Pigmentosa Disease </p> 
 
-<p><a href="{{ post.paperurl }}" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS DETAILS</a></p>
+<p><a href="https://worldwide.espacenet.com/patent/search/family/085117987/publication/WO2023154026A1?q=WO2023154026A1" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS DETAILS</a></p>
 ---
 <p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Neural Lentiviral Vector Containing The Functional Abca4 Gene For Use In The Treatment Of Retinitis
 Pigmentosa (RP) Disease</p> 
 
----
-<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Methods for the Treatment of Spinal Muscular Atrop</p> 
+<p><a href="https://worldwide.espacenet.com/patent/search/family/085117719/publication/TR2022000448A2?q=pn%3DTR2022000448A2" class="btn btn-outline-primary btn-outline-custom" style="text-decoration: none;">ACCESS DETAILS</a></p>
 
 ---
 <p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Neurotrophic Factor And Optogenetic System-Based Lentiviral System For Use In Retinal Diseases</p> 
+
+---
+<p style="color:#2C91F5; text-decoration: none; cursor: default !important; font-weight: bold; font-size: 18px;" >Methods for the Treatment of Spinal Muscular Atrophy</p> 
+
