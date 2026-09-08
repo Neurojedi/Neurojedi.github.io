@@ -6,6 +6,7 @@ link: https://github.com/Neurojedi/Machine-Learning-Zero2Hero
 url: 
 excerpt: "A series of notebooks that introduce Machine Learning concepts with hands-on practice and its mathematics in brief."
 collection: portfolio
+era: "bachelor"
 ---
 
 In this repository, you will find Jupyter notebooks that introduce machine learning algorithms by combining mathematical aspects behind the algorithms and practices. Currently, there are 20 notebooks in the following subjects:
