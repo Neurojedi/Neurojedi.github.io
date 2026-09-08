@@ -1,5 +1,3 @@
-# Bachelor's Era 
-
 ---
 title: "Machine-Learning-Zero2Hero"
 img: /images/tsne_mnist.png
