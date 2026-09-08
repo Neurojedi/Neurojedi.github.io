@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Master's Era</h2>
+<h2> ------------------- Master's Era -------------------</h2>
 {% assign master_projects = site.portfolio | where: "era", "master" %}
 {% for post in master_projects %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2>Bachelor's Era</h2>
+<h2> ------------------- Bachelor's Era -------------------</h2>
 {% assign bachelor_projects = site.portfolio | where: "era", "bachelor" %}
 {% for post in bachelor_projects %}
   {% include archive-single.html %}
