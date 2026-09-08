@@ -7,14 +7,50 @@ author_profile: true
 
 {% include base_path %}
 
-<h2> ------------------- Master's Era -------------------</h2>
-{% assign master_projects = site.portfolio | where: "era", "master" %}
-{% for post in master_projects %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+  /* Styles the toggle button */
+  .era-toggle {
+    font-size: 1.5em;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 12px 15px;
+    background-color: #f7f9fa; /* Light grey background */
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    transition: background-color 0.2s ease;
+  }
+  
+  /* Hover effect */
+  .era-toggle:hover {
+    background-color: #e9ecef;
+  }
 
-<h2> ------------------- Bachelor's Era -------------------</h2>
-{% assign bachelor_projects = site.portfolio | where: "era", "bachelor" %}
-{% for post in bachelor_projects %}
-  {% include archive-single.html %}
-{% endfor %}
+  /* Adds spacing around the projects inside the toggle */
+  .era-content {
+    padding-top: 15px;
+    padding-bottom: 30px;
+  }
+</style>
+
+<!-- The 'open' attribute makes this section expanded by default -->
+<details open>
+  <summary class="era-toggle">Master's Era</summary>
+  <div class="era-content">
+    {% assign master_projects = site.portfolio | where: "era", "master" %}
+    {% for post in master_projects %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</details>
+
+<!-- No 'open' attribute means this stays collapsed until clicked -->
+<details>
+  <summary class="era-toggle">Bachelor's Era</summary>
+  <div class="era-content">
+    {% assign bachelor_projects = site.portfolio | where: "era", "bachelor" %}
+    {% for post in bachelor_projects %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </div>
+</details>
