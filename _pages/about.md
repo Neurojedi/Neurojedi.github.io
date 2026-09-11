@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Computational Neuroscience at the **[Bernstein Center for Computational Neuroscience Berlin](https://www.bccn-berlin.de/)**. I currently work as a research assistant in the Neural Data Science and Statistical Computing Group at the **[Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en)**,privileged to be working under the guidance of **[Nico Scherf](https://www.cbs.mpg.de/person/nscherf/1448721)** alongside an amazing team.
+I am a Master's student in Computational Neuroscience at the **[Bernstein Center for Computational Neuroscience Berlin](https://www.bccn-berlin.de/)**. I currently work as a research assistant in the Neural Data Science and Statistical Computing Group at the **[Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en)**, privileged to be working under the guidance of **[Nico Scherf](https://www.cbs.mpg.de/person/nscherf/1448721)** alongside an amazing team.
 
 I am interested in biological neural information processing, and I study how both biological brains and artificial neural networks process information. Broadly, my work sits within Computational Neuroscience, with particular interests in [neuroconnectionism](https://www.nature.com/articles/s41583-023-00705-w) and [NeuroAI](https://www.nature.com/articles/s41467-023-37180-x). For a deeper look into my work, please check out my research interests page :)
 
