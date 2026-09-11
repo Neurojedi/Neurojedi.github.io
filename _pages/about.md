@@ -18,7 +18,7 @@ Before starting my current work in computational neuroscience, I studied Molecul
 
 You can find more information about my academic background and experience in my CV :)
 
-Beyond research, I am passionate about sharing knowledge and building useful tools. I have worked on a range of machine-learning projects, which you can explore on my GitHub. I also strongly believe in maintaining a balance between mental and physical well-being. Outside of research, I enjoy powerlifting, playing the drums, and playing the bağlama—my traditional instrument—as forms of challenge, creative expression, and relaxation.
+Beyond research, I am passionate about sharing knowledge and building useful tools. I have worked on a range of machine-learning projects, which you can explore on my GitHub. I also strongly believe in maintaining a balance between mental and physical well-being. Outside of research, I enjoy powerlifting, and playing the bağlama, my traditional instrument, as forms of challenge, creative expression, and relaxation.
 
 If you have any questions about my research, projects, or the Master's program, feel free to reach out!
 
