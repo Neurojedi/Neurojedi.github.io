@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Görkem Akgül"
   avatar           : "pic3.jpg"
-  bio              : "Bachelor's student at Uskudar University, working on Neuroscience and Machine Learning"
+  bio              : "Natural Scientist"
   location         : "Istanbul, Turkey"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : gorkem.akgul@st.uskudar.edu.tr
+  email            : goerkem.akguel@bccn-berlin.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/neurojedi/
   orcid            : 
   pinterest        :
   SoundCloud       : https://on.soundcloud.com/79AgQ
