@@ -10,7 +10,7 @@ Nature is a fascinating phenomenon. It contains many different scales, mechanism
 
 The brain is made of neurons, but its activity unfolds across a massive range of scales. We see this everywhere. Brain waves, like alpha and mu oscillations, desynchronize when we move or even just imagine moving (Pfurtscheller & Lopes da Silva, 1999). Blood flow in the cortex shifts in highly structured ways when we process stimuli (Logothetis et al., 2001). In the hippocampus, sharp-wave ripples fire to help us consolidate memories and plan (Buzsáki, 2015), while recurrent circuits create "ring-attractor" dynamics that act like an internal compass to track our spatial position (Kim et al., 2017). The brain is not just a passive filter waiting for stimuli. It is a deeply dynamic, nonlinear, and recurrent information-processing system.
 
-**Bridging Biological and Artificial Intelligence**
+**Biological and Artificial Information Processing**
 
 We have known for a long time that we can make sense of this complexity. When Hubel and Wiesel (1959) discovered that simple cells in the visual cortex operate much like mathematical Gabor filters, it was a breakthrough. It proved that nature's overwhelming complexity can be distilled into simpler models that the human mind can grasp. This isn't just scientifically exciting; it touches on deep philosophical ideas. As David Hume argued in 1739, human understanding fundamentally relies on associating ideas and finding causes to impose order on a chaotic sensory world. Finding clean, predictable mathematical principles in the brain perfectly satisfies this cognitive need.
 
