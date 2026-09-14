@@ -8,6 +8,18 @@ Artificial Intelligence has always drawn inspiration from these biological reali
 
 I find this parallel deeply compelling. Artificial networks lack the rich, messy dynamics of biological brains, like complex spiking or intricate dendritic structures. They also learn through variants of backpropagation, whereas biological learning operates through local, time-extended mechanisms. Yet, despite these massive differences, artificial and biological systems often converge on related representational solutions. Understanding when this happens, why it happens, and where it fails is one of the main questions driving my research.
 
-There is also a profound theoretical link here between representation, symmetry, and invariance. Thinkers like Karl Pribram (1991) and David Bohm (1980) long suspected that neural information processing might be distributed and relational, shaped by transformations much like frequencies in a hologram. Recently, this intuition has gained formal mathematical grounding. We now know that under specific invariance conditions, neural networks naturally recover Fourier features tied to the symmetry of the task (Marchetti et al., 2024). This hints at a deep relationship between symmetry constraints and how representations take shape in the brain.
+There is also a profound theoretical link here between representation, symmetry, and invariance. Scholars like Karl Pribram (1991) and David Bohm (1980) long suspected that neural information processing might be distributed and relational, shaped by transformations much like frequencies in a hologram. Recently, this intuition has gained formal mathematical grounding. We now know that under specific invariance conditions, neural networks naturally recover Fourier features tied to the symmetry of the task (Marchetti et al., 2024). This hints at a deep relationship between symmetry constraints and how representations take shape in the brain.
 
-Driven by these geometric and representational insights, the field of NeuroAI has exploded. We are no longer just using neural networks as engineering tools. Instead, we are using them as explicit, testable models of biological cognition—an approach now known as the "neuroconnectionist" programme (Doerig et al., 2023). This framework allows us to test whether brain-like models truly offer explanatory value (Sucholutsky et al., 2024), shifting our focus from simply predicting neural responses to actively exploring how the brain computes.
+Driven by these geometric and representational insights, the field of NeuroAI has exploded. We are no longer just using neural networks as engineering tools. Instead, we are using them as explicit, testable models of biological cognition, an approach now known as the "neuroconnectionist" programme (Doerig et al., 2023). This framework allows us to test whether brain-like models truly offer explanatory value (Sucholutsky et al., 2024), shifting our focus from simply predicting neural responses to actively exploring how the brain computes.
+
+Ultimately, my central interest is understanding biological neural information processing. I am specifically driven by questions like:
+
+* Why do artificial and biological neural networks often converge to similar representational structures?
+
+* Which properties of the task, environment, architecture, and learning rule determine this convergence?
+* Can aligned artificial networks help us infer the actual computational principles of the brain, rather than just predicting its responses?
+* How do dynamics, recurrence, oscillations, and population-level interactions shape neural representations over time?
+* Can mechanistic analyses of artificial networks give us testable hypotheses for real biological circuits?
+* Can we use our understanding of biological networks to build better artificial ones?
+
+My goal is to contribute to a deeper understanding of how neural systems transform sensory input into stable, flexible, and meaningful representations. By studying how dynamics and learning shape these representations, I hope to use computational models to move our understanding of the brain from mere prediction to true explanation.
