@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Research Interest"
+permalink: /researchinterest/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% capture research_text %}{% include_relative researchinterest.md %}{% endcapture %}
+{{ research_text | markdownify }}
