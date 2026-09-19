@@ -42,17 +42,23 @@
 
 
 /* ==========================================================================
-   Neurojedi — subtle royal-blue navigation
+   Neurojedi — compact royal-blue navigation
    ========================================================================== */
 
-/* Keep the original clean white background */
+/* Keep the navbar white and remove the blue line */
 .masthead {
   background: #ffffff;
-  border-bottom: 2px solid #4169e1;
-  box-shadow: 0 2px 8px rgba(65, 105, 225, 0.10);
+  border-bottom: none;
+  box-shadow: none;
 }
 
-/* Website name: "Neurojedi" */
+/* Reduce the height of the overall navigation area */
+.masthead__inner-wrap {
+  padding-top: 0.45em;
+  padding-bottom: 0.45em;
+}
+
+/* Website name */
 .site-title,
 .site-title:visited {
   color: #1e3a8a;
@@ -70,40 +76,13 @@
   font-weight: 500;
 }
 
-/* Royal-blue hover colour */
+/* Make the visible menu slightly more compact */
+.greedy-nav .visible-links a {
+  padding-top: 0.35em;
+  padding-bottom: 0.35em;
+}
+
+/* Royal-blue hover state */
 .greedy-nav .visible-links a:hover {
-  color: #4169e1;
-}
-
-/* Animated underline under navigation items */
-.greedy-nav .visible-links a::before {
-  background: #4169e1;
-  height: 2px;
-}
-
-/* Mobile navigation button */
-.greedy-nav__toggle {
-  color: #1e3a8a;
-}
-
-.greedy-nav__toggle .navicon,
-.greedy-nav__toggle .navicon::before,
-.greedy-nav__toggle .navicon::after {
-  background: #1e3a8a;
-}
-
-/* Mobile dropdown */
-.greedy-nav .hidden-links {
-  background: #ffffff;
-  border: 1px solid #bfd3ff;
-}
-
-.greedy-nav .hidden-links a,
-.greedy-nav .hidden-links a:visited {
-  color: #4b5563;
-}
-
-.greedy-nav .hidden-links a:hover {
-  background: #edf3ff;
   color: #4169e1;
 }
