@@ -98,40 +98,7 @@
    Neurojedi — footer
    ========================================================================== */
 
+/* Hide the default AcademicPages footer */
 .page__footer {
-  margin-top: 3em;
-  padding: 1.5em 0;
-  background: #f8fafb;
-  border-top: 1px solid #e2eaed;
-  color: #6b7280;
-}
-
-/* Make footer content more compact */
-.page__footer footer {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
-/* Footer links */
-.page__footer a,
-.page__footer a:visited {
-  color: #5ea9bf;
-}
-
-.page__footer a:hover {
-  color: #4d8fa5;
-  text-decoration: none;
-}
-
-/* "FOLLOW:" and other small footer labels */
-.page__footer .social-icons {
-  margin-top: 0.4em;
-  margin-bottom: 0.5em;
-}
-
-/* Small copyright line */
-.page__footer-copyright {
-  margin-top: 0.5em;
-  font-size: 0.8em;
-  color: #8a949e;
+  display: none;
 }
