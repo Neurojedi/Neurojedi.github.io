@@ -87,10 +87,10 @@
   color: #4169e1 !important;
 }
 
-/* Underline animation becomes brighter cyan-blue */
+/* Slightly brighter royal-blue navigation hover animation */
 .greedy-nav .visible-links a::before,
 .greedy-nav .visible-links a:hover::before {
-  background: #38bdf8 !important;
-  background-color: #38bdf8 !important;
-  box-shadow: 0 0 6px rgba(56, 189, 248, 0.65);
+  background: #5b7cfa !important;
+  background-color: #5b7cfa !important;
+  box-shadow: 0 0 5px rgba(91, 124, 250, 0.35);
 }
