@@ -84,13 +84,13 @@
 
 /* Text becomes royal blue on hover */
 .greedy-nav .visible-links a:hover {
-  color: #4169e1 !important;
+  color: #5ea9bf !important;
 }
 
 /* Slightly brighter royal-blue navigation hover animation */
 .greedy-nav .visible-links a::before,
 .greedy-nav .visible-links a:hover::before {
-  background: #6384ff !important;
-  background-color: #6384ff !important;
+  background: #5ea9bf !important;
+  background-color: #5ea9bf !important;
   box-shadow: 0 0 5px rgba(91, 124, 250, 0.35);
 }
