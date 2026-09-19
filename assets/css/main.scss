@@ -42,72 +42,68 @@
 
 
 /* ==========================================================================
-   Neurojedi — royal blue navigation
+   Neurojedi — subtle royal-blue navigation
    ========================================================================== */
 
+/* Keep the original clean white background */
 .masthead {
-  background: linear-gradient(90deg, #071b45 0%, #0b2e73 55%, #123f96 100%);
-  border-bottom: 2px solid #4f8cff;
-  box-shadow: 0 2px 10px rgba(11, 46, 115, 0.22);
+  background: #ffffff;
+  border-bottom: 2px solid #4169e1;
+  box-shadow: 0 2px 8px rgba(65, 105, 225, 0.10);
 }
 
-/* The navigation bar itself */
-.greedy-nav {
-  background: transparent;
-}
-
-/* "Neurojedi" */
+/* Website name: "Neurojedi" */
 .site-title,
 .site-title:visited {
-  color: #f4f8ff;
+  color: #1e3a8a;
   font-weight: 700;
 }
 
 .site-title:hover {
-  color: #8ec5ff;
+  color: #4169e1;
 }
 
-/* Main navigation links */
+/* Navigation links */
 .greedy-nav a,
 .greedy-nav a:visited {
-  color: #e5efff;
+  color: #4b5563;
   font-weight: 500;
 }
 
-/* Blue underline below a hovered navigation item */
+/* Royal-blue hover colour */
+.greedy-nav .visible-links a:hover {
+  color: #4169e1;
+}
+
+/* Animated underline under navigation items */
 .greedy-nav .visible-links a::before {
-  background: #79b8ff;
+  background: #4169e1;
   height: 2px;
 }
 
-/* Link hover */
-.greedy-nav .visible-links a:hover {
-  color: #8ec5ff;
-}
-
-/* Mobile menu icon */
+/* Mobile navigation button */
 .greedy-nav__toggle {
-  color: #e5efff;
+  color: #1e3a8a;
 }
 
 .greedy-nav__toggle .navicon,
 .greedy-nav__toggle .navicon::before,
 .greedy-nav__toggle .navicon::after {
-  background: #e5efff;
+  background: #1e3a8a;
 }
 
-/* Mobile dropdown menu */
+/* Mobile dropdown */
 .greedy-nav .hidden-links {
-  background: #0b2e73;
-  border: 1px solid #4f8cff;
+  background: #ffffff;
+  border: 1px solid #bfd3ff;
 }
 
 .greedy-nav .hidden-links a,
 .greedy-nav .hidden-links a:visited {
-  color: #e5efff;
+  color: #4b5563;
 }
 
 .greedy-nav .hidden-links a:hover {
-  background: #123f96;
-  color: #8ec5ff;
+  background: #edf3ff;
+  color: #4169e1;
 }
