@@ -42,55 +42,54 @@
 
 
 /* ==========================================================================
-   Neurojedi — compact royal-blue navigation
+   Neurojedi — compact navbar using the site's blue-teal link colour
    ========================================================================== */
 
-/* Keep the navbar white and remove the blue line */
+/* Keep navbar clean, white, and compact */
 .masthead {
   background: #ffffff;
   border-bottom: none;
   box-shadow: none;
 }
 
-/* Reduce the height of the overall navigation area */
 .masthead__inner-wrap {
   padding-top: 0.45em;
   padding-bottom: 0.45em;
 }
 
-/* Website name */
+/* "Neurojedi" site name */
 .site-title,
 .site-title:visited {
-  color: #1e3a8a;
+  color: #4d8fa5;
   font-weight: 700;
 }
 
 .site-title:hover {
-  color: #4169e1;
+  color: #5ea9bf;
 }
 
-/* Navigation links */
+/* Default navigation links */
 .greedy-nav a,
 .greedy-nav a:visited {
   color: #4b5563;
   font-weight: 500;
 }
 
-/* Make the visible menu slightly more compact */
+/* Slightly reduce navbar height */
 .greedy-nav .visible-links a {
   padding-top: 0.35em;
   padding-bottom: 0.35em;
 }
 
-/* Text becomes royal blue on hover */
+/* Hovered navigation text */
 .greedy-nav .visible-links a:hover {
   color: #5ea9bf !important;
 }
 
-/* Slightly brighter royal-blue navigation hover animation */
+/* Hover underline animation */
 .greedy-nav .visible-links a::before,
 .greedy-nav .visible-links a:hover::before {
   background: #5ea9bf !important;
   background-color: #5ea9bf !important;
-  box-shadow: 0 0 5px rgba(91, 124, 250, 0.35);
+  box-shadow: 0 0 4px rgba(94, 169, 191, 0.28);
 }
