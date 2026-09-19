@@ -48,3 +48,26 @@ Ultimately, my central interest is understanding biological neural information p
 * Can we use our understanding of biological networks to build better artificial ones?
 
 My goal is to contribute to a deeper understanding of how neural systems transform sensory input into stable, flexible, and meaningful representations. By studying how dynamics and learning shape these representations, I hope to use computational models to move our understanding of the brain from mere prediction to true explanation.
+
+
+---
+
+## References
+
+1. Amari, S. (1977). Dynamics of pattern formation in lateral-inhibition type neural fields. *Biological Cybernetics, 27*, 77–87. [https://doi.org/10.1007/BF00337259](https://doi.org/10.1007/BF00337259)
+2. Bohm, D. (1980). *Wholeness and the implicate order*. Routledge & Kegan Paul.
+3. Buzsáki, G. (2015). Hippocampal sharp wave-ripple: A cognitive biomarker for episodic memory and planning. *Hippocampus, 25*(10), 1073–1188. [https://doi.org/10.1002/hipo.22488](https://doi.org/10.1002/hipo.22488)
+4. Doerig, A., Sommers, R. P., Seeliger, K., Richards, B., Ismael, J., Lindsay, G. W., Kording, K. P., Konkle, T., van Gerven, M. A. J., & Kietzmann, T. C. (2023). The neuroconnectionist research programme. *Nature Reviews Neuroscience, 24*, 431–450. [https://doi.org/10.1038/s41583-023-00705-w](https://doi.org/10.1038/s41583-023-00705-w)
+5. Fukushima, K. (1980). Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. *Biological Cybernetics, 36*, 193–202. [https://doi.org/10.1007/BF00344251](https://doi.org/10.1007/BF00344251)
+6. HubeI, D. H., & Wiesel, T. N. (1959). Receptive fields of single neurones in the cat's striate cortex. *The Journal of Physiology, 148*(3), 574–591. [https://doi.org/10.1113/jphysiol.1959.sp006308](https://doi.org/10.1113/jphysiol.1959.sp006308)
+7. Hume, D. (1739/2000). *A treatise of human nature* (D. F. Norton & M. J. Norton, Eds.). Oxford University Press.
+8. Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. *Nature, 532*, 453–458. [https://doi.org/10.1038/nature17637](https://doi.org/10.1038/nature17637)
+9. Kim, S. S., Rouault, H., Druckmann, S., & Jayaraman, V. (2017). Ring attractor dynamics in the *Drosophila* central brain. *Science, 356*(6340), 849–853. [https://doi.org/10.1126/science.aal4835](https://doi.org/10.1126/science.aal4835)
+10. Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. *Nature, 412*, 150–157. [https://doi.org/10.1038/35084005](https://doi.org/10.1038/35084005)
+11. Marchetti, G. L., Hillar, C., Kragic, D., & Sanborn, S. (2024). *Harmonics of learning: Universal Fourier features emerge in invariant networks*. arXiv. [https://doi.org/10.48550/arXiv.2312.08550](https://doi.org/10.48550/arXiv.2312.08550)
+12. Olshausen, B. A., & Field, D. J. (1996). Emergence of simple-cell receptive field properties by learning a sparse code for natural images. *Nature, 381*, 607–609. [https://doi.org/10.1038/381607a0](https://doi.org/10.1038/381607a0)
+13. Pfurtscheller, G., & Lopes da Silva, F. H. (1999). Event-related EEG/MEG synchronization and desynchronization: Basic principles. *Clinical Neurophysiology, 110*(11), 1842–1857. [https://doi.org/10.1016/S1388-2457(99)00141-8](https://doi.org/10.1016/S1388-2457(99)00141-8)
+14. Pribram, K. H. (1991). *Brain and perception: Holonomy and structure in figural processing*. Lawrence Erlbaum Associates.
+15. Sucholutsky, I., Muttenthaler, L., Weller, A., Peng, A., Bobu, A., Kim, B., Love, B. C., Cueva, C. J., Grant, E., Groen, I., Achterberg, J., Tenenbaum, J. B., Collins, K. M., Hermann, K. L., Kriegeskorte, N., Konkle, T., Griffiths, T. L., et al. (2023). *Getting aligned on representational alignment*. arXiv. [https://arxiv.org/abs/2310.13018](https://arxiv.org/abs/2310.13018)
+16. von Humboldt, A. (1849). *Cosmos: A sketch of a physical description of the universe* (Vol. 1, E. C. Otté, Trans.). Longman, Brown, Green, and Longmans. (Original work published 1845.)
+17. Yamins, D. L. K., Hong, H., Cadieu, C. F., Solomon, E. A., Seibert, D., & DiCarlo, J. J. (2014). Performance-optimized hierarchical models predict neural responses in higher visual cortex. *Proceedings of the National Academy of Sciences, 111*(23), 8619–8624. [https://doi.org/10.1073/pnas.1403112111](https://doi.org/10.1073/pnas.1403112111)
