@@ -39,3 +39,75 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* ==========================================================================
+   Neurojedi — royal blue navigation
+   ========================================================================== */
+
+.masthead {
+  background: linear-gradient(90deg, #071b45 0%, #0b2e73 55%, #123f96 100%);
+  border-bottom: 2px solid #4f8cff;
+  box-shadow: 0 2px 10px rgba(11, 46, 115, 0.22);
+}
+
+/* The navigation bar itself */
+.greedy-nav {
+  background: transparent;
+}
+
+/* "Neurojedi" */
+.site-title,
+.site-title:visited {
+  color: #f4f8ff;
+  font-weight: 700;
+}
+
+.site-title:hover {
+  color: #8ec5ff;
+}
+
+/* Main navigation links */
+.greedy-nav a,
+.greedy-nav a:visited {
+  color: #e5efff;
+  font-weight: 500;
+}
+
+/* Blue underline below a hovered navigation item */
+.greedy-nav .visible-links a::before {
+  background: #79b8ff;
+  height: 2px;
+}
+
+/* Link hover */
+.greedy-nav .visible-links a:hover {
+  color: #8ec5ff;
+}
+
+/* Mobile menu icon */
+.greedy-nav__toggle {
+  color: #e5efff;
+}
+
+.greedy-nav__toggle .navicon,
+.greedy-nav__toggle .navicon::before,
+.greedy-nav__toggle .navicon::after {
+  background: #e5efff;
+}
+
+/* Mobile dropdown menu */
+.greedy-nav .hidden-links {
+  background: #0b2e73;
+  border: 1px solid #4f8cff;
+}
+
+.greedy-nav .hidden-links a,
+.greedy-nav .hidden-links a:visited {
+  color: #e5efff;
+}
+
+.greedy-nav .hidden-links a:hover {
+  background: #123f96;
+  color: #8ec5ff;
+}
