@@ -82,19 +82,15 @@
   padding-bottom: 0.35em;
 }
 
-/* Royal-blue hover state */
-.greedy-nav .visible-links a:hover {
-  color: #4169e1;
-}
-
-/* Keep the navigation hover animation royal blue */
-.greedy-nav .visible-links a::before,
-.greedy-nav .visible-links a:hover::before {
-  background: #4169e1 !important;
-  background-color: #4169e1 !important;
-}
-
-/* Keep hovered text royal blue as well */
+/* Text becomes royal blue on hover */
 .greedy-nav .visible-links a:hover {
   color: #4169e1 !important;
+}
+
+/* Underline animation becomes brighter cyan-blue */
+.greedy-nav .visible-links a::before,
+.greedy-nav .visible-links a:hover::before {
+  background: #38bdf8 !important;
+  background-color: #38bdf8 !important;
+  box-shadow: 0 0 6px rgba(56, 189, 248, 0.65);
 }
