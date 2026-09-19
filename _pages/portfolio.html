@@ -35,10 +35,11 @@ author_profile: true
 <details open>
   <summary class="era-toggle">Master's Era</summary>
   <div class="era-content">
-    {% assign master_projects = site.portfolio | where: "era", "master" %}
-    {% for post in master_projects %}
-      {% include archive-single.html %}
-    {% endfor %}
+{% assign master_projects = site.portfolio | where: "era", "master" | sort: "order" %}
+
+{% for post in master_projects %}
+  {% include archive-single.html %}
+{% endfor %}
   </div>
 </details>
 
