@@ -86,3 +86,15 @@
 .greedy-nav .visible-links a:hover {
   color: #4169e1;
 }
+
+/* Keep the navigation hover animation royal blue */
+.greedy-nav .visible-links a::before,
+.greedy-nav .visible-links a:hover::before {
+  background: #4169e1 !important;
+  background-color: #4169e1 !important;
+}
+
+/* Keep hovered text royal blue as well */
+.greedy-nav .visible-links a:hover {
+  color: #4169e1 !important;
+}
