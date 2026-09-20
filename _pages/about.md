@@ -16,7 +16,7 @@ During my Master's, I have worked on several NeuroAI projects. My longest lab ro
 
 Before my master's studies, I did a double major in Molecular Biology and Genetics/Software Engineering in İstanbul, Turkey. You can find more information about my academic background and experience in my CV :)
 
-**If you have any questions about my research, projects, or the Master's program, feel free to reach out!**
+If you have any questions about my research, projects, or the Master's program, feel free to reach out!
 <div class="news-section">
   <h2>News</h2>
 
