@@ -14,7 +14,7 @@ I am interested in biological neural information processing, and I study how bot
 
 During my Master's, I have worked on several NeuroAI projects. My longest lab rotation focused on autoregressive audio models, supervised by brilliant **[Greta Tuckute](http://www.tuckute.com/)**, who is also supervising my Master's thesis. In another lab rotation, I worked on **[brain-informed neural networks](https://www.biorxiv.org/content/10.1101/2025.07.07.662360v2)** with super talented **[Anuja Negi](http://anujanegi.me/)** and dear **[Fatma Deniz](https://www.fatmanet.com/)**.
 
-I did a double major in Molecular Biology and Genetics/Software Engineering in İstanbul, Turkey. You can find more information about my academic background and experience in my CV :)
+Before my master's studies, I did a double major in Molecular Biology and Genetics/Software Engineering in İstanbul, Turkey. You can find more information about my academic background and experience in my CV :)
 
 **If you have any questions about my research, projects, or the Master's program, feel free to reach out!**
 <div class="news-section">
