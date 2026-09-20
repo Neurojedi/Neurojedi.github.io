@@ -36,7 +36,7 @@ If you have any questions about my research, projects, or the Master's program, 
         <a href="https://www.ewi-psy.fu-berlin.de/psychologie/arbeitsbereiche/cognitive_computational_neuroscience_lab/team/leitung/doerig_a/index.html" target="_blank" rel="noopener noreferrer">Adrien Doerig</a>,
         and the
         <a href="https://www.cbs.mpg.de/methods-and-development-groups/neural-data-science-and-statistical-computing" target="_blank" rel="noopener noreferrer">Neural Data Science and Statistical Computing Group</a>
-        at MPI CBS. A huge thank you to Greta for all her support. I am super excited that we will continue working together for my Master's thesis.
+        at MPI CBS. A huge thanks to Greta for all her support. It was an amazing experience to work with her, and I am super duper excited that we will continue working together for my Master's thesis.
       </p>
     </div>
 
@@ -47,7 +47,7 @@ If you have any questions about my research, projects, or the Master's program, 
         <a href="http://www.tuckute.com/" target="_blank" rel="noopener noreferrer">Greta Tuckute</a>
         at the
         <a href="https://kempnerinstitute.harvard.edu/" target="_blank" rel="noopener noreferrer">Kempner Institute for the Study of Natural and Artificial Intelligence</a>
-        at Harvard University. During this rotation, I worked on autoregressive language models.
+        at Harvard University. During this rotation, I will be working on autoregressive language models.
       </p>
     </div>
 
@@ -72,7 +72,7 @@ If you have any questions about my research, projects, or the Master's program, 
         <a href="https://www.fatmanet.com/" target="_blank" rel="noopener noreferrer">Fatma Deniz</a>
         at the
         <a href="https://www.tu.berlin/en/" target="_blank" rel="noopener noreferrer">Technical University of Berlin</a>.
-        I worked on
+        I will be working on
         <a href="https://www.biorxiv.org/content/10.1101/2025.07.07.662360v2" target="_blank" rel="noopener noreferrer">brain-informed fine-tuning of language models</a>.
       </p>
     </div>
