@@ -23,40 +23,89 @@ If you have any questions about my research, projects, or the Master's program, 
 <div class="news-section">
   <h2>News</h2>
 
-  <div class="news-item">
-    <time datetime="2026-09-20">Sep 2026</time>
-    <p>
-      I am currently preparing my Master's thesis on NeuroAI and brain-informed models under the supervision of
-      <a href="http://www.tuckute.com/">Greta Tuckute</a>.
-    </p>
-  </div>
+  <div class="news-scroll">
 
-  <div class="news-item">
-    <time datetime="2026-08-01">Aug 2026</time>
-    <p>
-      I completed my summer internship at the
-      <a href="https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic">Centre for Medical Image Computing</a>
-      at University College London.
-    </p>
-  </div>
+    <div class="news-item">
+      <time datetime="2026-09-01">September 2026</time>
+      <p>
+        I recently finished my lab rotation with
+        <a href="http://www.tuckute.com/" target="_blank" rel="noopener noreferrer">Greta Tuckute</a>.
+        I will be presenting our work during several lab visits, including at the
+        <a href="https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/Cognitive-Computational-Neuroscience/index.html" target="_blank" rel="noopener noreferrer">Cognitive Computational Neuroscience Lab</a>
+        led by
+        <a href="https://www.ewi-psy.fu-berlin.de/psychologie/arbeitsbereiche/cognitive_computational_neuroscience_lab/team/leitung/doerig_a/index.html" target="_blank" rel="noopener noreferrer">Adrien Doerig</a>,
+        and the
+        <a href="https://www.cbs.mpg.de/methods-and-development-groups/neural-data-science-and-statistical-computing" target="_blank" rel="noopener noreferrer">Neural Data Science and Statistical Computing Group</a>
+        at MPI CBS. A huge thank you to Greta for all her support—I am also very happy that we will continue working together for my Master's thesis.
+      </p>
+    </div>
 
-  <div class="news-item">
-    <time datetime="2026-06-01">Jun 2026</time>
-    <p>
-      I started working as a research assistant in the Neural Data Science and Statistical Computing Group at the
-      <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>.
-    </p>
-  </div>
+    <div class="news-item">
+      <time datetime="2026-01-01">January 2026</time>
+      <p>
+        I started my second lab rotation with
+        <a href="http://www.tuckute.com/" target="_blank" rel="noopener noreferrer">Greta Tuckute</a>
+        at the
+        <a href="https://kempnerinstitute.harvard.edu/" target="_blank" rel="noopener noreferrer">Kempner Institute for the Study of Natural and Artificial Intelligence</a>
+        at Harvard University. During this rotation, I worked on autoregressive language models.
+      </p>
+    </div>
 
-  <div class="news-item">
-    <time datetime="2026-01-01">2026</time>
-    <p>
-      I began my Master's degree in Computational Neuroscience at the
-      <a href="https://www.bccn-berlin.de/">Bernstein Center for Computational Neuroscience Berlin</a>.
-    </p>
+    <div class="news-item">
+      <time datetime="2026-01-01">January 2026</time>
+      <p>
+        I gave a presentation at the
+        <a href="https://denizenslab.github.io/" target="_blank" rel="noopener noreferrer">Denizens Lab</a>
+        (<em>Cognitive Computing in Biological and Artificial Systems</em>). A huge thank you to
+        <a href="http://anujanegi.me/" target="_blank" rel="noopener noreferrer">Anuja Negi</a>
+        and
+        <a href="https://www.fatmanet.com/" target="_blank" rel="noopener noreferrer">Fatma Deniz</a>!
+      </p>
+    </div>
+
+    <div class="news-item">
+      <time datetime="2025-10-01">October 2025</time>
+      <p>
+        I started my first BCCN lab rotation with
+        <a href="http://anujanegi.me/" target="_blank" rel="noopener noreferrer">Anuja Negi</a>
+        and
+        <a href="https://www.fatmanet.com/" target="_blank" rel="noopener noreferrer">Fatma Deniz</a>
+        at the
+        <a href="https://www.tu.berlin/en/" target="_blank" rel="noopener noreferrer">Technical University of Berlin</a>.
+        I worked on
+        <a href="https://www.biorxiv.org/content/10.1101/2025.07.07.662360v2" target="_blank" rel="noopener noreferrer">brain-informed fine-tuning of language models</a>.
+      </p>
+    </div>
+
+    <div class="news-item">
+      <time datetime="2025-10-01">October 2025</time>
+      <p>
+        I attended the
+        <a href="https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/" target="_blank" rel="noopener noreferrer">Bernstein Conference</a>.
+        It was great to meet people from the computational neuroscience community!
+      </p>
+    </div>
+
+    <div class="news-item">
+      <time datetime="2025-04-01">April 2025</time>
+      <p>
+        I started working as a research assistant in the
+        <a href="https://www.cbs.mpg.de/methods-and-development-groups/neural-data-science-and-statistical-computing" target="_blank" rel="noopener noreferrer">Neural Data Science and Statistical Computing Group</a>
+        at the
+        <a href="https://www.cbs.mpg.de/en" target="_blank" rel="noopener noreferrer">Max Planck Institute for Human Cognitive and Brain Sciences</a>.
+      </p>
+    </div>
+
+    <div class="news-item">
+      <time datetime="2024-10-01">October 2024</time>
+      <p>
+        I began my Master's degree in Computational Neuroscience at the
+        <a href="https://www.bccn-berlin.de/" target="_blank" rel="noopener noreferrer">Bernstein Center for Computational Neuroscience Berlin</a>.
+      </p>
+    </div>
+
   </div>
 </div>
-
 
 
 
