@@ -22,7 +22,42 @@ Beyond research, I am passionate about sharing knowledge and building useful too
 
 If you have any questions about my research, projects, or the Master's program, feel free to reach out!
 
+<div class="news-section">
+  <h2>News</h2>
 
+  <div class="news-item">
+    <time datetime="2026-09-20">Sep 2026</time>
+    <p>
+      I am currently preparing my Master's thesis on NeuroAI and brain-informed models under the supervision of
+      <a href="http://www.tuckute.com/">Greta Tuckute</a>.
+    </p>
+  </div>
+
+  <div class="news-item">
+    <time datetime="2026-08-01">Aug 2026</time>
+    <p>
+      I completed my summer internship at the
+      <a href="https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic">Centre for Medical Image Computing</a>
+      at University College London.
+    </p>
+  </div>
+
+  <div class="news-item">
+    <time datetime="2026-06-01">Jun 2026</time>
+    <p>
+      I started working as a research assistant in the Neural Data Science and Statistical Computing Group at the
+      <a href="https://www.cbs.mpg.de/en">Max Planck Institute for Human Cognitive and Brain Sciences</a>.
+    </p>
+  </div>
+
+  <div class="news-item">
+    <time datetime="2026-01-01">2026</time>
+    <p>
+      I began my Master's degree in Computational Neuroscience at the
+      <a href="https://www.bccn-berlin.de/">Bernstein Center for Computational Neuroscience Berlin</a>.
+    </p>
+  </div>
+</div>
 
 
 
