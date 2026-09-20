@@ -31,7 +31,7 @@ If you have any questions about my research, projects, or the Master's program, 
         I recently finished my lab rotation with
         <a href="http://www.tuckute.com/" target="_blank" rel="noopener noreferrer">Greta Tuckute</a>.
         I will be presenting our work during several lab visits, including at the
-        <a href="https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/neural_dyn_of_vis_cog/Cognitive-Computational-Neuroscience/index.html" target="_blank" rel="noopener noreferrer">Cognitive Computational Neuroscience Lab</a>
+        <a href="https://www.ewi-psy.fu-berlin.de/psychologie/arbeitsbereiche/cognitive_computational_neuroscience_lab/index.html" target="_blank" rel="noopener noreferrer">Cognitive Computational Neuroscience Lab</a>
         led by
         <a href="https://www.ewi-psy.fu-berlin.de/psychologie/arbeitsbereiche/cognitive_computational_neuroscience_lab/team/leitung/doerig_a/index.html" target="_blank" rel="noopener noreferrer">Adrien Doerig</a>,
         and the
