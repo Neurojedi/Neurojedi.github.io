@@ -36,7 +36,7 @@ If you have any questions about my research, projects, or the Master's program, 
         <a href="https://www.ewi-psy.fu-berlin.de/psychologie/arbeitsbereiche/cognitive_computational_neuroscience_lab/team/leitung/doerig_a/index.html" target="_blank" rel="noopener noreferrer">Adrien Doerig</a>,
         and the
         <a href="https://www.cbs.mpg.de/methods-and-development-groups/neural-data-science-and-statistical-computing" target="_blank" rel="noopener noreferrer">Neural Data Science and Statistical Computing Group</a>
-        at MPI CBS. A huge thank you to Greta for all her support—I am also very happy that we will continue working together for my Master's thesis.
+        at MPI CBS. A huge thank you to Greta for all her support. I am super excited that we will continue working together for my Master's thesis.
       </p>
     </div>
 
