@@ -4,14 +4,4 @@
 
 ---
 
-I am interested in the working principles of biological and artificial neural networks, with a particular focus on how neural systems transform information into useful representations. One question that revolves around my head is how biological brains and artificial neural networks form, organise, and use internal representations and whether comparing the two can reveal principles of neural computation.
-
-I work at the intersection of Computational Neuroscience, NeuroAI, and representation learning. I am particularly interested in when biological and artificial systems develop similar representational structures, which task constraints or learning rules drive those similarities, and when apparently strong brain–model alignment fails to provide a meaningful explanation.
-
-## Biological and Artificial Representations
-
-Biological and artificial neural networks differ substantially in their physical implementation, learning mechanisms, and dynamics. Brains are recurrent, stochastic, embodied systems composed of heterogeneous cells that operate across multiple spatial and temporal scales. Artificial networks are usually trained with gradient-based optimisation and are often much simpler in both architecture and dynamics. Yet artificial neural networks can develop representations that predict neural responses or resemble the geometry of neural population activity. I find this convergence weirdly interesting. It raises an important question for me: when does representational similarity reflect a shared computational solution?
-
-I am especially interested in moving beyond the question of whether a model predicts neural data. Instead, I want to ask which properties of a model, its architecture, objective, learning rule, dynamics, or inductive biases—make it align with the brain, and whether these properties can generate testable hypotheses about biological computation.
-
-To be continued
+Under construction
