@@ -17,6 +17,7 @@ During my Master's, I have worked on several NeuroAI projects. My longest lab ro
 Before starting my master's, I did a double major in Molecular Biology and Genetics/Software Engineering. During my undergraduate studies, I contributed to rare-disease gene-therapy projects at [TRGENMER](https://uskudar.edu.tr/en/trgenmer) under [Cihan Tastan](https://scholar.google.com/citations?user=px2LTJsAAAAJ&hl=en), and completed a summer internship at UCL's [Centre for Medical Image Computing](https://www.ucl.ac.uk/medical-image-computing/centre-medical-image-computing-cmic), developing multimodal predictive approaches for Alzheimer's disease with [Neil Oxtoby](https://profiles.ucl.ac.uk/37538-neil-oxtoby) and [Maetrei Kohli](http://www0.cs.ucl.ac.uk/people/M.Kohli.html).
 
 If you have any questions about my research, projects, or the Master's program, feel free to reach out!
+
 <div class="news-section">
   <h2>News</h2>
 
@@ -24,8 +25,8 @@ If you have any questions about my research, projects, or the Master's program, 
     
     <div class="news-item">
       <time datetime="2026-10-01">October 2026</time>
-       <p>
-        Back at the <a href="https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/" target="_blank" rel="noopener noreferrer">Bernstein Conference</a> for my second year! It was highly encouraging to witness the growing interest in NeuroAI           this year compared to last year, and always great to reconnect with the computational neuroscience community.
+      <p>
+        Back at the <a href="https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/" target="_blank" rel="noopener noreferrer">Bernstein Conference</a> for my second year! It was highly encouraging to witness the growing interest in NeuroAI this year compared to last year, and always great to reconnect with the computational neuroscience community.
       </p>
     </div>
 
@@ -111,10 +112,10 @@ If you have any questions about my research, projects, or the Master's program, 
   </div>
 </div>
 
+<br>
+
 ### Natura Naturans
 
 > *"Nature considered rationally, that is to say, submitted to the process of thought, is a unity in diversity of phenomena; a harmony, blending together all created things, however dissimilar in form and attributes; one great whole (τὸ πᾶν) animated by the breath of life. The most important result of a rational inquiry into nature is, therefore, to establish the unity and harmony of this stupendous mass of force and matter, to determine with impartial justice what is due to the discoveries of the past and to those of the present, and to analyze the individual parts of natural phenomena without succumbing beneath the weight of the whole. Thus, and thus alone, is it permitted to man, while mindful of the high destiny of his race, to comprehend nature, to lift the veil that shrouds her phenomena, and, as it were, submit the results of observation to the test of reason and of intellect."*
 >
 > — **Alexander von Humboldt**, *Cosmos*, Volume 1, page 26.
-
-
