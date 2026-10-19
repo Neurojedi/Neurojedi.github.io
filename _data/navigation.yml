@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Research Interest"
-    url: /research-interests/
+ # - title: "Research Interest"
+  #  url: /research-interests/
     
   - title: "Github Projects"
     url: /github-projects/
