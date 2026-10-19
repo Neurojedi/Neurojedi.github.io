@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master's student in Computational Neuroscience at the [Bernstein Center for Computational Neuroscience Berlin](https://www.bccn-berlin.de/). I also work as a research assistant in the Neural Data Science and Statistical Computing Group at the [Max Planck Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/en), privileged to be working under the guidance of [Nico Scherf](https://www.cbs.mpg.de/person/nscherf/1448721) alongside an amazing team.
 
-I am interested in biological neural information processing, and I study how both biological and artificial neural networks process information. Broadly, my work sits within Computational Neuroscience, with particular interests in [neuroconnectionism](https://www.nature.com/articles/s41583-023-00705-w) and [NeuroAI](https://www.nature.com/articles/s41467-023-37180-x). For a deeper look into my research interest, please check out my [research interests page](/research-interests/) :)
+I am interested in biological neural information processing, and I study how both biological and artificial neural networks process information. Broadly, my work sits within Computational Neuroscience, with particular interests in [neuroconnectionism](https://www.nature.com/articles/s41583-023-00705-w) and [NeuroAI](https://www.nature.com/articles/s41467-023-37180-x). 
 
 During my Master's, I have worked on several NeuroAI projects. My longest lab rotation focused on autoregressive audio models, supervised by brilliant [Greta Tuckute](http://www.tuckute.com/), who is also supervising my Master's thesis. In another lab rotation, I worked on [brain-informed neural networks](https://www.biorxiv.org/content/10.1101/2025.07.07.662360v2) with super talented [Anuja Negi](http://anujanegi.me/) and dear [Fatma Deniz](https://www.fatmanet.com/).
 
@@ -21,6 +21,15 @@ If you have any questions about my research, projects, or the Master's program, 
   <h2>News</h2>
 
   <div class="news-scroll">
+    
+    <div class="news-item">
+      <time datetime="2026-10-01">October 2026</time>
+      <p>
+        I attended the
+        <a href="https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/" target="_blank" rel="noopener noreferrer">Bernstein Conference for the second time</a>.
+        There was a growing interest in the NeuroAI research this year. It was great to meet people from the computational neuroscience community!
+      </p>
+    </div>
 
     <div class="news-item">
       <time datetime="2026-09-01">September 2026</time>
@@ -104,5 +113,8 @@ If you have any questions about my research, projects, or the Master's program, 
   </div>
 </div>
 
+> *"Nature considered rationally, that is to say, submitted to the process of thought, is a unity in diversity of phenomena; a harmony, blending together all created things, however dissimilar in form and attributes; one great whole (τὸ πᾶν) animated by the breath of life. The most important result of a rational inquiry into nature is, therefore, to establish the unity and harmony of this stupendous mass of force and matter, to determine with impartial justice what is due to the discoveries of the past and to those of the present, and to analyze the individual parts of natural phenomena without succumbing beneath the weight of the whole. Thus, and thus alone, is it permitted to man, while mindful of the high destiny of his race, to comprehend nature, to lift the veil that shrouds her phenomena, and, as it were, submit the results of observation to the test of reason and of intellect."*
+>
+> — **Alexander von Humboldt**, *Cosmos*, Volume 1, page 26.
 
 
