@@ -113,7 +113,6 @@ If you have any questions about my research, projects, or the Master's program, 
 </div>
 
 <br>
-
 <div class="news-section">
   <h2>Natura Naturans</h2>
   <div class="news-scroll" style="height: auto; overflow: hidden;">
