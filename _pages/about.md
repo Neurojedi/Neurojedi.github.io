@@ -21,7 +21,7 @@ If you have any questions about my research, projects, or the Master's program, 
 <div class="news-section">
   <h2>News</h2>
 
-  <div class="news-scroll" style="max-height: 400px; overflow-y: auto;">
+  <div class="news-scroll" style="max-height: 450px; overflow-y: auto;">
     
     <div class="news-item">
       <time datetime="2026-10-01">October 2026</time>
