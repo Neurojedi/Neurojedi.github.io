@@ -24,10 +24,8 @@ If you have any questions about my research, projects, or the Master's program, 
     
     <div class="news-item">
       <time datetime="2026-10-01">October 2026</time>
-      <p>
-        I attended the
-        <a href="https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/" target="_blank" rel="noopener noreferrer">Bernstein Conference for the second time</a>.
-        There was a growing interest in the NeuroAI research this year. It was great to meet people from the computational neuroscience community!
+       <p>
+        Back at the <a href="https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/" target="_blank" rel="noopener noreferrer">Bernstein Conference</a> for my second year! It was highly encouraging to witness the growing interest in NeuroAI           this year compared to last year, and always great to reconnect with the computational neuroscience community.
       </p>
     </div>
 
